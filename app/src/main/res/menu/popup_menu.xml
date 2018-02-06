@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <item
+        android:id="@+id/itmMostrarMapa"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="Ver en el mapa"/>
+
+    <item
+        android:id="@+id/itmAgregarFavoritos"
+        android:icon="@drawable/ic_grade_black_24dp"
+        android:title="Agregar a favoritos"/>
+
+</menu>

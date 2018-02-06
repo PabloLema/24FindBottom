@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EA6943</color>
+    <color name="colorPrimaryDark">#E55A31</color>
+    <color name="colorAccent">#388E3C</color>
+
+    <color name="colorDivider">#CBCBCB</color>
+    <color name="colorBackgroundIco">#EEEEEE</color>
+
+    <color name="colorImageButtons">#737373</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
